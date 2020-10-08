@@ -1,0 +1,1 @@
+text=<<-TEXTdefhello(name)puts"Hello,\#{name}!"endhello('Alice')hello('Bob')hello('Carol')TEXTputstext.gsub(/^[\t]+$/,'')

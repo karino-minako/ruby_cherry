@@ -1,0 +1,1 @@
+<selectname="game_console">none,wii_u,WiiUps4,プレステ4gb,ゲームボーイ</select>

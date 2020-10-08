@@ -1,0 +1,1 @@
+text=<<-TEXT名前伊藤淳一電話03-1234-5678住所兵庫県西脇市坂波町1-2-3TEXTputstext.scan/\d\d-\d\d\d\d-\d\d\d\d/
